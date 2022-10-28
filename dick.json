@@ -149,9 +149,3 @@
   "unsafe_colors": {
     "CHAT_GREY": "#111011"
   },
-  "background": {
-    "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/835179957772615710/1035567968404389968/ok.jpg",
-    "alpha": 1.0
-  }
-}
